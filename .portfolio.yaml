@@ -12,6 +12,14 @@ descriptionLong:
     Una versión mejorada y reorganizada de la plantilla LaTeX oficial para TFG/TFM de la ETSINF de la Universitat Politècnica de València (UPV). Extiende la versión simplificada con características adicionales manteniendo la conformidad con los estándares de formato universitario. Organizada en directorios lógicos para capítulos, imágenes y bibliografía. Las mejoras principales respecto a los archivos originales incluyen: configuración Git con .gitignore preconfigurado, mejor organización de carpetas, y funcionalidad de plantilla GitHub para creación instantánea de repositorios. Compatible con IDEs LaTeX modernos y synctex para edición lado a lado.
 technologies: [git]
 tags: [other]
+logo: readme-images/code-block.png
+screenShoots:
+  - readme-images/code-block.png
+  - readme-images/example-plot.png
+  - readme-images/example-section.png
+  - readme-images/index.png
+  - readme-images/thumbnail.png
 slug: Latex-Template
 order: 12
 featured: false
+
