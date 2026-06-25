@@ -10,7 +10,7 @@ descriptionLong:
     An enhanced and reorganized version of the official LaTeX thesis template from ETSINF at Universitat Politècnica de València (UPV). Extends the simplified version with additional features while maintaining compliance with university formatting standards. Organized into logical directories for chapters, images, and bibliography. Key improvements over the raw university files include: Git-ready setup with pre-configured .gitignore, better folder organization, and GitHub template functionality for instant repository creation. Compatible with modern LaTeX IDEs and synctex for side-by-side editing.
   es: |
     Una versión mejorada y reorganizada de la plantilla LaTeX oficial para TFG/TFM de la ETSINF de la Universitat Politècnica de València (UPV). Extiende la versión simplificada con características adicionales manteniendo la conformidad con los estándares de formato universitario. Organizada en directorios lógicos para capítulos, imágenes y bibliografía. Las mejoras principales respecto a los archivos originales incluyen: configuración Git con .gitignore preconfigurado, mejor organización de carpetas, y funcionalidad de plantilla GitHub para creación instantánea de repositorios. Compatible con IDEs LaTeX modernos y synctex para edición lado a lado.
-technologies: [git]
+technologies: [latex]
 tags: [other]
 logo: readme-images/code-block.png
 screenShoots:
@@ -28,6 +28,7 @@ keywords:
 slug: Latex-Template
 order: 12
 featured: false
+
 
 
 
