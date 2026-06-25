@@ -19,7 +19,11 @@ screenShoots:
   - readme-images/example-section.png
   - readme-images/index.png
   - readme-images/thumbnail.png
+keywords:
+  en: [LaTeX thesis template, TFG TFM, UPV ETSINF, enhanced thesis, academic writing, Valencia university, thesis structure, LaTeX project, bibliography chapters, template repository]
+  es: [plantilla LaTeX tesis, TFG TFM, UPV ETSINF, tesis mejorada, escritura académica, universidad de Valencia, estructura de tesis, proyecto LaTeX, capítulos bibliografía, repositorio plantilla]
 slug: Latex-Template
 order: 12
 featured: false
+
 
