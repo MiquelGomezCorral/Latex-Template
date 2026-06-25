@@ -1,6 +1,6 @@
 title:
-  en: UPV/ETSINF Thesis Template (Enhanced)
-  es: Plantilla TFG/TFM UPV/ETSINF (Mejorada)
+  en: Latex Template (Enhanced)
+  es: Plantilla LaTeX (Mejorada)
 finished: finished
 descriptionShort:
   en: Enhanced version of the UPV/ETSINF LaTeX thesis template with extended features. Git-ready with logical folder structure (chapters, images, bibliography). For Bachelor's (TFG) and Master's (TFM) theses. Template-instantiable from GitHub.
